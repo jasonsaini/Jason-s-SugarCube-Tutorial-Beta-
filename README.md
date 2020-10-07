@@ -13,4 +13,8 @@ Please do not edit the relative file paths or folder/file names, because certain
 
 I have also included a template for coders to start their own story, as well as external links for a deeper programming education!
 
+It will throw an error because some files I mentioned in the template don't actually exist! They are placeholders for your custom audio files if you choose to use the template!
+
+I strongly recommend you read the tutorial before experimenting with the template.
+
 Feel free to add tutorials for features!
