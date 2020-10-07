@@ -18,3 +18,7 @@ It will throw an error because some files I mentioned in the template don't actu
 I strongly recommend you read the tutorial before experimenting with the template.
 
 Feel free to add tutorials for features!
+
+If you have any questions or need help with something you can contact me at 
+
+jasonsaini.exe@gmail.com
