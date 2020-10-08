@@ -1,6 +1,8 @@
 # Jason-s-SugarCube-Tutorial-Beta-
 This is a tutorial for those new to programming. Using the Twine interactive story framework, I have written a tutorial that uses basic programming concepts to help aspiring coders create their first interactive story!
 
+Once you extract the main folder, be sure to extract the subfolder within it. Otherwise the project won't work properly...
+
 In truth, I started this project as a reference for myself to use because I'm working on creating a Twine game!
 
 I quickly realized its potential as a source for people to learn programming and web development basics and got to work writing and coding this tutorial in Sugarcube.
